@@ -7,14 +7,14 @@ obtener todos los registros / get all records
 
 http://localhost/ci4_rest/public/productos
 
-![myimage-alt-tag](https://drive.google.com/file/d/1Q69EjPAmIrHpnbn02mrNzXTX9Dh7tHTA/view?usp=sharing)
+![Get](https://user-images.githubusercontent.com/43820626/124992923-3e54bb80-e009-11eb-9a7b-38548aa6fda7.PNG)
 
 
 obtener un registro por ID / get a record by ID
 
 http://localhost/ci4_rest/public/productos/1
 
-![myimage-alt-tag](https://drive.google.com/file/d/1XoeMxD25QTLmnXsgb3G6smU089T3MhNq/view?usp=sharing)
+![get_id](https://user-images.githubusercontent.com/43820626/124995910-b1603100-e00d-11eb-88f4-09e9a1e161ed.PNG)
 
 
 POST
@@ -22,7 +22,7 @@ Insertar un registro / insert a record
 
 http://localhost/ci4_rest/public/productos
 
-![myimage-alt-tag](https://drive.google.com/file/d/1KDjJJKd7AsynixxlfoOICSIxOQxGyVV6/view?usp=sharing)
+![post](https://user-images.githubusercontent.com/43820626/124995981-ce94ff80-e00d-11eb-8c70-23d28000b407.PNG)
 
 
 PUT 
@@ -30,7 +30,8 @@ actualizar un registro / update a record
 
 http://localhost/ci4_rest/public/productos/update
 
-![myimage-alt-tag](https://drive.google.com/file/d/1yMC9bMqEfqovtte2sm6jZq9dckYRdzcg/view?usp=sharing)
+![put](https://user-images.githubusercontent.com/43820626/124995996-d785d100-e00d-11eb-96a8-da1827dad2d7.PNG)
+
 
 
 DELETE
@@ -38,6 +39,6 @@ borrar un registro / delete a record
 
 http://localhost/ci4_rest/public/productos/1
 
-![myimage-alt-tag](https://drive.google.com/file/d/1DKaL0SqMPYGjxwoNE2KecNTQWW_IP08C/view?usp=sharing)
+![delete](https://user-images.githubusercontent.com/43820626/124996010-dfde0c00-e00d-11eb-8e9e-26ea23b1b2aa.PNG)
 
 
